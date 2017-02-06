@@ -1,4 +1,5 @@
 
+Incomplete project.
 HSM(Hospital Management System) is a data-driven web application which will allow hospitals and clinics to 
 easily manage their patients’ information and records. Hospital staff will be able to add/remove patient data 
 such as medicine information, patient appointments, etc.
